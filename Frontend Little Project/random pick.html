@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+    <style>
+        #box{
+            width: 200px;
+            margin: auto;
+        }
+        #text{
+            height: 300px;
+            line-height: 300px;
+            font-size: 50px;
+            font-weight: bolder;
+            text-align: center;
+
+        }
+        #button{
+            width: 200px;
+            height: 60px;
+            background-color: deepskyblue;
+            text-align: center;
+            line-height: 60px;
+            border-radius: 10px;
+            font-size: 24px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="box">
+        <div id="text">Cyrus</div>
+        <button id="button">Click</button>
+    </div>
+</body>
+<script>
+    var names = [
+        "Cyrus", "Ray", "Frankie", "Gordon", "Jenny", "Hollis", "Louis", 
+        "Viola", "Brain", "Tommy", "Bobby", "Jimmy", "Marco", "Norton", "Natalie" 
+    ]
+    var button=document.getElementById("button")
+    var text=document.getElementById("text")
+    var time=null
+    var time1=null
+    button.onclick=function(){
+        time=setInterval(()=>{
+            var index=Math.floor(Math.random(0)*names.length)
+            text.innerHTML=names[index]
+        },10)
+        time1=setTimeout(()=>{
+            clearInterval(time)
+        },1000)
+        }
+</script>
+
+</html>
