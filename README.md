@@ -5,6 +5,8 @@ Here you can see what LITTLE PROJECT I made with Generation and myself ;D
 <br></br>
 ### Self-Learning Project
 <br>‧ <b>[UPDATING]</b> Face Recognition for Attendance</br>
+<br>‧Generate CAPTCHA Image</br>
+<br>‧Frontend Little Project</br>
 <br></br>
 ### Generation In-class Project
 <br>‧ Titianic Survival Prediction - Data Analysis</br>
