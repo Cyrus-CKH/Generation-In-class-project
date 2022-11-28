@@ -1,4 +1,4 @@
-<c>### Hello! Welcome to my Github.</c>
+<p align="center">### Hello! Welcome to my Github.</p>
 Here you can see what LITTLE PROJECT I made with Generation and myself ;D
 <br></br>
 <br></br>
