@@ -1,7 +1,7 @@
 ### Hello! Welcome to my Github. Here you can see what LITTLE PROJECT I made with Generation and myself ;D
 
 ## Self Learning Project
-‧ Face Recognition for Attendance
+<br>‧ Face Recognition for Attendance</br>
 
 ## Generation-In-class-project
 <br>‧ Titianic Survival Prediction - Data Analysis</br>
