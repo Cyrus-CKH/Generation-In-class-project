@@ -1,4 +1,4 @@
-### Hello! Welcome to my Github. Here you can see what LITTLE PROJECT I made with Generation and myself ;D
+# Hello! Welcome to my Github. Here you can see what LITTLE PROJECT I made with Generation and myself ;D
 
 ## Self Learning Project
 <br>‧ Face Recognition for Attendance</br>
