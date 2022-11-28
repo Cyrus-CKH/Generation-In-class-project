@@ -4,6 +4,6 @@
 ‧ Face Recognition for Attendance
 
 ## Generation-In-class-project
-‧ Titianic Survival Prediction - Data Analysis
-‧ Twitter Grab & Sentiment Analysis - Web Drawler 
-‧ Olist e-commerce virtualization - Virtual and Actionable Insights
+‧ Titianic Survival Prediction - Data Analysis \n
+‧ Twitter Grab & Sentiment Analysis - Web Drawler \n
+‧ Olist e-commerce virtualization - Virtual and Actionable Insights \n
