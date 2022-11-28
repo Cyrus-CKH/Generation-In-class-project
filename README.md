@@ -1,4 +1,5 @@
-### Hello! Welcome to my Github. Here you can see what LITTLE PROJECT I made with Generation and myself ;D
+<c>### Hello! Welcome to my Github.</c>
+Here you can see what LITTLE PROJECT I made with Generation and myself ;D
 <br></br>
 <br></br>
 ### Self Learning Project
