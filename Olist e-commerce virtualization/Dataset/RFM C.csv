@@ -1,0 +1,9 @@
+NO.,Type,R,F,M,RFM code,Color code
+1,Champion,H,H,H,HHH,#0E7388
+2,Loyal Customer,L,H,H,LHH,#009A99
+3,Potential,H,L,H,HLH,#43BF94
+4,Recent Customer,L,L,H,LLH,#99E080
+5,Need Nurturing,H,H,L,HHL,#526F86
+6,At Risk,L,H,L,LHL,#7492AA
+7,Cant Lose,H,L,L,HLL,#98B6D0
+8,Lost,L,L,L,LLL,#BEDCF6
